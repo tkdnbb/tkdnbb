@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Cho You.
+🔭 I’m currently working on a TypeScript project.
+🌱 I’m currently learning SSR and rust.
