@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am Cho You.
-🔭 I’m currently working on a TypeScript project.
-🌱 I’m currently learning SSR and rust.
+- 🔭 I’m currently working on a TypeScript project.
+- 🌱 I’m currently learning SSR, Optimistic UI and rust.
+- 👯 I’m looking to collaborate on [quizSolver](https://t.me/quizSolver).
